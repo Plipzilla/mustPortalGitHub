@@ -1,0 +1,7 @@
+/* Step 1 Specific Styles */
+.step1-container {
+  /* All form styling is now handled by FormStyles.css */
+  /* This file only contains step-specific customizations */
+}
+
+/* Remove any existing form styles as they're now in FormStyles.css */ 
